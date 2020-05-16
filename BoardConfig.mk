@@ -97,7 +97,6 @@ TARGET_RECOVERY_PIXEL_FORMAT := BGRA_8888
 TARGET_RECOVERY_QCOM_RTC_FIX := true
 TW_NO_SCREEN_BLANK := true
 TW_OVERRIDE_SYSTEM_PROPS := "ro.build.fingerprint"
-TW_USE_TOOLBOX := true
 
 # Custom Platform Version and Security Patch
 # TWRP Defaults
